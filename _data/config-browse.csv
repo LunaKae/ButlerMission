@@ -3,4 +3,4 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
-contentwarning,Content Warnings,,true
+contentwarning,Content Warnings,true,,,
